@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prueba-tecnica-ilana-api", "prueba-tecnica-ilana-api\prueba-tecnica-ilana-api.csproj", "{FB43643A-2DB4-4090-A4F4-FF74E71C71E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB43643A-2DB4-4090-A4F4-FF74E71C71E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB43643A-2DB4-4090-A4F4-FF74E71C71E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB43643A-2DB4-4090-A4F4-FF74E71C71E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB43643A-2DB4-4090-A4F4-FF74E71C71E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACD922E4-1228-4213-B019-BAC0C91D0A7D}
+	EndGlobalSection
+EndGlobal
