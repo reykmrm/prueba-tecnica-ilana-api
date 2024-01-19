@@ -10,6 +10,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using prueba_tecnica_ilana_api.IService;
 using prueba_tecnica_ilana_api.Services;
 using Data.Services.IService;
+using prueba_tecnica_ilana_api.Services.Interfaz;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,6 +26,7 @@ builder.Services.AddDbContext<PruebatecnicailanaContext>(options => options.UseS
 
 builder.Services.AddScoped<IUserRepository, UsersRepository>();
 builder.Services.AddScoped<IUserService, UsersServices>();
+builder.Services.AddScoped<ICaptchaVerificationService, CaptchaVerificationService>();
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 .AddJwtBearer(options =>

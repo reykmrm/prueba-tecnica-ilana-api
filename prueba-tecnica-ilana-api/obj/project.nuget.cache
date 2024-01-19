@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "798mwSBdaaxFqxBkP9XZ+hEPnJ3KRS6g+6aos7RqXGPTsFKEJmPAKi0pdDcwH6wEo6oXrvTGreiOyreppelGwA==",
+  "dgSpecHash": "pmhSzNGuu/A0Utvfgr9J/SLRZ3KLfDNDKPRDiZiowJ8FCJ3VMaQ3P+em3J8RKmp6z9RTtg0wzG+2u1NFrfJcUQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\elpan\\source\\repos\\prueba-tecnica-ilana-api\\prueba-tecnica-ilana-api\\prueba-tecnica-ilana-api.csproj",
   "expectedPackageFiles": [
@@ -38,6 +38,8 @@
     "C:\\Users\\elpan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\elpan\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\elpan\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\elpan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\elpan\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512",
     "C:\\Users\\elpan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\elpan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\elpan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
