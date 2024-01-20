@@ -33,11 +33,11 @@ namespace AppSignalRFlutterBack.Controllers
         [HttpPost("[action]")]
         public async Task<IActionResult> Login(LoginRequest users)
         {
-            var captchaValid = await _captchaVerificationService.IsCaptchaValid(users.CaptchaResponse);
-            if (!captchaValid)
-            {
-                return BadRequest("Captcha inválido");
-            }
+            //var captchaValid = await _captchaVerificationService.IsCaptchaValid(users.CaptchaResponse);
+            //if (!captchaValid)
+            //{
+            //    return BadRequest("Captcha inválido");
+            //}
             return await _usersServices.Login(users);
         }
 
